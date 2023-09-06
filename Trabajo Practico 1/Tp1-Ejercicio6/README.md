@@ -1,4 +1,5 @@
 Ejercicio 6
+
 Necesitamos implementar la clase Libro para un sistema de administración de bibliotecas y todas las clases 
 relacionadas que correspondan. Generalmente las búsquedas se hacen por Título o Autor, es casi imposible que quieran 
 buscar un libro por ISBN y en ciertos casos no se tiene el dato para completarlo. Si solo queda un Ejemplar disponible, 
