@@ -8,7 +8,7 @@ public class Main {
     private Scanner scanner = new Scanner(System.in);
 
     public void run() {
-        System.out.println("Decida el formato de las fechas, ingrese un numero a continuacion:");
+        System.out.println("Decida el formato de las fechas, ingrese un numero a continuacion (1/2):");
         System.out.println("1. dd-MM-yyyy");
         System.out.println("2. MM-dd-yyyy");
         int formato = scanner.nextInt();
